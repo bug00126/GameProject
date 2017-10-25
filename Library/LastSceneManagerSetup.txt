@@ -1,4 +1,7 @@
 sceneSetups:
-- path: Assets/BolloonServive.unity
+- path: Assets/Lobby.unity
   isLoaded: 1
   isActive: 1
+- path: Assets/BolloonServive.unity
+  isLoaded: 1
+  isActive: 0
