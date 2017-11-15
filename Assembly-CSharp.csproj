@@ -46,6 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\AutoSaveOnRun.cs" />
+     <Compile Include="Assets\GroundGenerator.cs" />
      <Compile Include="Assets\Lobby\Scripts\DraggablePanel.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyCountdownPanel.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyHook.cs" />
@@ -57,13 +59,18 @@
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
+     <Compile Include="Assets\Party Pack\Scripts\CandleLight.cs" />
+     <Compile Include="Assets\Party Pack\Scripts\CycleCookiesTimer.cs" />
+     <Compile Include="Assets\Party Pack\Scripts\Rotate.cs" />
+     <Compile Include="Assets\Party Pack\Scripts\TriggerParticlesTimer.cs" />
+     <Compile Include="Assets\Party Pack\Scripts\TriggerParticlesTouch.cs" />
+     <Compile Include="Assets\Party Pack\Scripts\TriggerSoundTouch.cs" />
      <Compile Include="Assets\Scripts\CannonController.cs" />
      <Compile Include="Assets\Scripts\CannonballController.cs" />
      <Compile Include="Assets\Scripts\DamageScript.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
      <None Include="Assets\Lobby\Documentation.txt" />
      <None Include="Assets\Lobby\Instruction.txt" />
-     <None Include="Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
