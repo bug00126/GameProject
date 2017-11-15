@@ -59,12 +59,6 @@
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerEntry.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyServerList.cs" />
      <Compile Include="Assets\Lobby\Scripts\Lobby\LobbyTopPanel.cs" />
-     <Compile Include="Assets\Party Pack\Scripts\CandleLight.cs" />
-     <Compile Include="Assets\Party Pack\Scripts\CycleCookiesTimer.cs" />
-     <Compile Include="Assets\Party Pack\Scripts\Rotate.cs" />
-     <Compile Include="Assets\Party Pack\Scripts\TriggerParticlesTimer.cs" />
-     <Compile Include="Assets\Party Pack\Scripts\TriggerParticlesTouch.cs" />
-     <Compile Include="Assets\Party Pack\Scripts\TriggerSoundTouch.cs" />
      <Compile Include="Assets\Scripts\CannonController.cs" />
      <Compile Include="Assets\Scripts\CannonballController.cs" />
      <Compile Include="Assets\Scripts\DamageScript.cs" />
