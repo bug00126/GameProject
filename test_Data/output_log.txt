@@ -19,28 +19,14 @@ Platform assembly: D:\my_thing\college\game_coding\BolloonServive\test_Data\Mana
 Loading D:\my_thing\college\game_coding\BolloonServive\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: D:\my_thing\college\game_coding\BolloonServive\test_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading D:\my_thing\college\game_coding\BolloonServive\test_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.398 seconds
+- Completed reload, in  0.476 seconds
 Platform assembly: D:\my_thing\college\game_coding\BolloonServive\test_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: D:\my_thing\college\game_coding\BolloonServive\test_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.744402 ms
+UnloadTime: 1.762363 ms
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 9f0 -> priority: 1 
-  Thread -> id: 1244 -> priority: 1 
-DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
- 
-(Filename:  Line: 462)
-
-DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
- 
-(Filename:  Line: 462)
-
-Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.585026 ms
-
-Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 2586.
-Total: 2.473980 ms (FindLiveObjects: 0.242052 ms CreateObjectMapping: 0.116321 ms MarkObjects: 2.092940 ms  DeleteObjects: 0.022238 ms)
-
+  Thread -> id: 3028 -> priority: 1 
+  Thread -> id: c24 -> priority: 1 

@@ -12,7 +12,7 @@ public class CannonController : NetworkBehaviour
 	void Start ()
 	{
 		power = 800.0f;
-		playerCamera = transform.FindChild("FirstPersonCharacter");
+		playerCamera = transform.Find("FirstPersonCharacter");
 	}
 	
 	// Update is called once per frame
